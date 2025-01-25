@@ -1,0 +1,144 @@
+iman ls
+iMan ls
+clear
+proclore
+seek ac
+seek bac	
+sleep 10 & sleep 20 &
+activities
+ping 51095 19
+activities
+clear
+cat < newfile.txt; cat < log.txt
+clear
+cat < newfile.txt | wc; cat < log.txt | wc
+clear
+sleep 100 &
+ping 51436 19
+activities
+clear
+sleep 100
+sleep 100 & sleep 200 &
+ping 51611 19; ping 51612 19
+activities
+bg 51611
+activities
+fg 51612
+activities
+ping 51611 15
+clear
+neonate -n 4 &
+
+clear
+neonate -n 4
+clea
+clear
+exit
+sleep 100 & sleep 200 &
+ping 52996 19
+ping 52997 19
+activities
+fg 52996
+activities
+fg 52997
+activities
+clear
+sleep 100 & sleep 200 &
+activities
+ping 53271 19; ping 53272 19
+activities
+bg 53271
+ping 53271 15
+bg 53272
+activites
+activities
+clear
+exithop .. | wc
+ls
+mkdir lol
+hop lol
+hop .. | wc
+hop | wc
+clear
+reveal .. | wc
+ls .. | wc
+ls & | wc
+clear
+ls | wc &
+
+ls & > lol.txt
+ls > lol.txt &
+
+cat loll.txt
+cat lol.txt
+clear
+hop
+celar
+clear
+hop lol
+ls
+hop
+rm 
+ls
+rm -rf lol
+[A
+ls
+clear
+reveal
+mkdir lol
+reveal
+rm -rf lol
+clear
+proclore
+activities
+sleep 100 & sleep 200 & ls &
+
+activities
+ping 63676 19
+activities
+activities | wc
+activities > lol.txt
+cat lol	
+cat lol.txt
+cat lol.txt | wc
+activities | wc
+ping 63676 15 | wc
+clear
+exit
+reveal | wc
+ls | wc
+ls > ex1.txt
+reveal > ex2.txt
+cat ex1.txt
+cat ex2.txt
+proclore | wc
+seek red | wc
+neonate -n 4 | wc
+iMan ls | wc
+iMan wc | wc
+iMan man | wc
+iMan ps | wc
+iMan fg | wc
+iMan clear | wc
+wc < log.txt > newfile.txt; cat newfile.txt | wc | wc
+cat newfile.txt
+cat newfile.txt| wc
+cat newfile.txt | wc | wc
+reveal | wc
+wc
+reveal | wc
+ls | wc
+wc < newfile.txt
+wc < reveal
+clear
+exit
+clear
+sleep 10 &
+sleep 10
+gedit &
+activities
+ping 25502 19
+activities
+fg 25502
+clear
+exit
