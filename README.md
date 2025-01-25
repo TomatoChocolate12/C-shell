@@ -71,13 +71,6 @@ Not many assumptions made.
 1. The '-' indicator for different directories points to the previous working directory from command before the current one. This means if I do `hop lol lmao -`, the previous working directory does not become lol.
 2. If there are no previous directories, '-' is assumed to be the HOME directory.
 
-### ChatGPT links:
-https://chatgpt.com/share/66e6fc22-353c-800a-a197-e27dcc12079b
-https://chatgpt.com/share/66e6fc34-2c9c-800a-ae5d-b937c2b05eee
-https://chatgpt.com/share/66e6fc40-e4ec-800a-930d-a0741d3d37fd
-https://chatgpt.com/share/66e6fc66-4bc4-800a-a961-1cea395338fc
-https://chatgpt.com/share/66e6fc83-1d54-800a-a63b-d6942ac414f4
-https://chatgpt.com/share/66e6fc9c-6ecc-800a-996b-829ca052b5bc
 https://chatgpt.com/share/66e6fcaf-7fec-800a-98f0-63cfbafca7e7
 
 I have not used GitHub Copilot for this assignment.
